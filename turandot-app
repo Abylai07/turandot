@@ -3,10 +3,10 @@
     <channel>
         <title>Turandot Loyality</title>
         <item>
-            <title>Версия 13.1.3</title>
+            <title>Версия 13.1.5</title>
             <description>Обновление</description>
-            <pubDate>Mon, 03 Dec 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.turandot" sparkle:version="13.1.3" sparkle:os="android" />
+            <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.turandot" sparkle:version="13.1.5" sparkle:os="android" />
         </item>
         <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
     </channel>
