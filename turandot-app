@@ -6,7 +6,7 @@
             <title>Версия 13.1.7</title>
             <description>Обновление</description>
             <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.turandot" sparkle:version="13.1.5" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.turandot" sparkle:version="13.1.7" sparkle:os="android" />
         </item>
         <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
     </channel>
